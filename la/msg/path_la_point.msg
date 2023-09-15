@@ -1,0 +1,11 @@
+float64 x
+float64 y
+float64 heading
+float64 s
+float64 d
+float64 s_dot
+float64 s_dot_dot
+float64 s_dot_dot_dot
+float64 d_dot
+float64 d_dot_dot
+float64 d_dot_dot_dot
